@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 35fafee9bbd25d84298d048b00a2c761
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pokemon GB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b13c85a71eca874d96150a40fc2abee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
