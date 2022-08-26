@@ -7,8 +7,8 @@ This is my project for entry in the Zense Club.
 I have tried to experiment with the UI in unity.
 
 #MY KNOWLEDGE ABOUT GAMEDEV
-I also know somethings about shadergrapha, vfxgraphs, the new input system and many more.
-I have actually attended a course on UDEMY by GameDev Tv and Rick Davidson.
+I also know somethings about shadergraphs, vfxgraphs, the new input system and many more.
+I have actually attended a course on UDEMY.
 
 I also have made those basic projects like 
 Delivery Driver, Snow Boarding, Quiz game, TileVania and LaserDefender
